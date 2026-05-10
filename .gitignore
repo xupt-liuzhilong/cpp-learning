@@ -1,0 +1,8 @@
+*.exe
+*.o
+*.obj
+*.out
+.vscode/
+Debug/
+Release/
+cmake-build-debug/
